@@ -24,3 +24,9 @@ dist/
 
 # Logs
 *.log
+
+# Ignore trained model file
+digit_recognizer_model.h5
+
+# Optional models directory
+models/
